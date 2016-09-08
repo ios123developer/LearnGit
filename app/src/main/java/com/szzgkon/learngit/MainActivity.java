@@ -9,8 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        people.setHobby("抽烟，喝酒，烫头");
-        people.setName("于谦");
-        people.toString();
+       
     }
 }
